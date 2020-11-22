@@ -9,4 +9,4 @@ With all the test images predicted correctly.
 There is still some scope to improve, using some image filters to filter noise, sharpen images or increase the contrast and so on. Next version to include additional features.
 
 Below are the examples of predictions of test data
-<p align="center"><img width="40%" src="test_results.jpg" /></p>
+<p align="center"><img width="40%" src="test_results.png" /></p>

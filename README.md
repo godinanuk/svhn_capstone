@@ -8,7 +8,7 @@ With all the test images predicted correctly.
 
 There is still some scope to improve, using some image filters to filter noise, sharpen images or increase the contrast and so on. Next version to include additional features.
 
-<b>Let us look at the plots of loss and accuracy vs epochs.  Our model predicted all the test images correctly</b>
+<b>Let us look at the plots of loss and accuracy vs epochs.  Our model achieved validation/test accuracy of 0.89 and a validation/test loss of 0.35</b>
 <p align="center"><img width="80%" src="lossnaccuracy.png" /></p>
 
 <b>Below are the examples of predictions of test data.  Our model predicted all the test images correctly</b>
